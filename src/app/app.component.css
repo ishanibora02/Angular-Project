@@ -1,0 +1,20 @@
+button{
+    background-color: #d2601a;
+    color:floralwhite;
+    text-shadow: gainsboro;
+    width:90%;
+    
+    
+}
+table{
+    background-color:#1d3c45;
+    color: cornsilk;
+    height: 50%;
+    width: 50%;
+}
+
+div{
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
